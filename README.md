@@ -6,7 +6,7 @@ Get data on stroke patients of a German stroke unit as csv-files, generate a cus
 
 Get data on stroke patients of a stroke unit as csv-files, add three self-filled csv-files, run code in [Python](www.python.org),  [Pandas](https://pandas.pydata.org/), some [Powershell](https://en.wikipedia.org/wiki/PowerShell), [Pandoc Markdown](https://pandoc.org/), some [Latex](https://www.latex-project.org/) and generate a customizable statistical report. 
 
-I am a physician and an amateur programmer. I wished to share the code and the way I did it. It may encourage others, whether programming physicians or professional programmers, to do similar -- and much better -- projects. 
+I am a physician and an amateur programmer. I wished to share the code and the way I did it. It may encourage others, whether programming physicians or professional programmers, to do similar - and much better - projects. 
 
 ## Rationale and description
 
