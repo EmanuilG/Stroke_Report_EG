@@ -1,0 +1,37 @@
+---
+title:
+  - Schlaganfall-Bericht 
+author:
+  - Emanuil Giuris
+lang: de-DE
+otherlangs: en-US
+date: September 2018
+link-citations: true
+tags: [Schlaganfall-Bericht]
+abstract: |
+header-includes: |
+    \usepackage[dvipsnames]{xcolor}
+    \usepackage[]{media9}
+    \usepackage{lmodern}
+    \renewcommand\familydefault{\sfdefault}
+    \usepackage[utf8]{inputenc}
+    \usepackage{longtable}
+    \usepackage{booktabs}
+    \usepackage{tabularx}
+    \usepackage{array}
+    \usepackage{tikz}
+    \usetikzlibrary{graphs,shapes,mindmap ,trees, arrows,decorations.pathmorphing,backgrounds,positioning,fit,petri, scopes}
+    \usepackage{pgfplots}
+    \usepackage{multicol}
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhead{}
+    \fancyfoot{}
+    \fancyfoot[R]{Seite \thepage}
+    \fancyfoot[L]{Schlaganfall-Bericht, 15.09.2018}
+    \usepackage[autostyle=true,german=quotes]{csquotes}
+    \makeatletter
+    \setlength{\@fptop}{0pt}
+    \setlength{\@fpbot}{0pt plus 1fil}
+    \makeatother
+---
