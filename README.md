@@ -27,9 +27,9 @@ My workflow:
 
 The files in that project are: 
 
-1. sb.py: The main file 
-2. metadata.yaml: The instructions for Pandoc
-3. report.ps1: The workflow file with mixed PowerShell and Python code, it uses sb.py and the 2 rename python files.
+1. eg_sb.py: The main file 
+2. eg_metadata.yaml: The instructions for Pandoc
+3. eg_report.ps1: The workflow file with mixed PowerShell and Python code, it uses sb.py and the 2 rename python files.
 4. RenameHi2bak.py: Rename outdated files and backing them up
 5. RenameMSA2hi.py: Rename received csv-files to standard names
 
